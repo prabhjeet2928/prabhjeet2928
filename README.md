@@ -1,6 +1,6 @@
 # Hi, I'm Prabhjeet! 👋
 
-![screen-gif](https://cdn.dribbble.com/users/1785628/screenshots/3649676/souveraintom_dribbble_firstshot_gif.gif)
+![screen-gif](./Prabhjeet_Singh_Intro.gif)
 
 ## 🚀 About Me
 

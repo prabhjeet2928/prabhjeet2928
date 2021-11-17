@@ -63,6 +63,7 @@ This is all about me.  If you have any questions about technology, I'm pleased t
 
 ## 🚀 GitHub Contributions
 
+![Prabhjeet's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhjeet2928)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhjeet2928)](https://git.io/streak-stats)
 
 ## 🚀 GitHub Achievements
@@ -75,6 +76,6 @@ This is all about me.  If you have any questions about technology, I'm pleased t
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Prabhjeet2911)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prabhjeetsingh2928)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prabhjeet_singh1999)
-[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrmJcmsnlhGQRLdKBSqhvmlcJkwDhhsvMBZJTMSmfjLvqjDsJjmVNSPfgQfXVSqWgzWrFv)
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=prabhjeet2911@gmail.com)
 
 ![thank you](./marquee.svg)

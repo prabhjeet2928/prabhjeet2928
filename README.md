@@ -63,8 +63,11 @@ This is all about me.  If you have any questions about technology, I'm pleased t
 
 ## 🚀 GitHub Contributions
 
-![Prabhjeet's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhjeet2928)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhjeet2928)](https://git.io/streak-stats)
+![Prabhjeet's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prabhjeet2928&theme=minimal)
+
+## 🚀 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhjeet2928)
 
 ## 🚀 GitHub Achievements
 

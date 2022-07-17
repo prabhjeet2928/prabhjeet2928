@@ -19,7 +19,7 @@ This is all about me.  If you have any questions about technology, I'm pleased t
 ## 🛠 Skills
 
 ### 1. Programming Languages
-![apex](https://img.shields.io/badge/apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![shell scripting](https://img.shields.io/badge/shell_scripting-4D4D4D?style=for-the-badge&logo=powershell&logoColor=white) ![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![apex](https://img.shields.io/badge/apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![shell scripting](https://img.shields.io/badge/shell_scripting-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white) ![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![java](https://img.shields.io/badge/core_java-CC0000?style=for-the-badge&logo=java&logoColor=white)
 
 ### 2. Operating System
 ![redhat linux](https://img.shields.io/badge/redhat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
@@ -28,7 +28,7 @@ This is all about me.  If you have any questions about technology, I'm pleased t
 ![dsa](https://img.shields.io/badge/data_structures_and_algorithms-5468FF?style=for-the-badge&logo=algolia&logoColor=white) ![oops](https://img.shields.io/badge/object_oriented_programmming-172B4D?style=for-the-badge&logo=actigraph&logoColor=white)
 
 ### 4. Big Data
-![hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white) ![spark](https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![spark](https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### 5. Cloud Computing
 ![salesforce](https://img.shields.io/badge/salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![aws](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![gcp](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)

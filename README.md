@@ -19,19 +19,19 @@ This is all about me.  If you have any questions about technology, I'm pleased t
 ## 🛠 Skills
 
 ### 1. Programming Languages
-![apex](https://img.shields.io/badge/apex-00A1E0?style=for-the-badge&logo=algolia&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![shell scripting](https://img.shields.io/badge/shell_scripting-4D4D4D?style=for-the-badge&logo=powershell&logoColor=white) ![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) (![java](https://user-images.githubusercontent.com/47848070/179392599-99581bab-7e84-407e-bf22-6752bc0e84a1.png)
+![apex](https://img.shields.io/badge/apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![shell scripting](https://img.shields.io/badge/shell_scripting-4D4D4D?style=for-the-badge&logo=powershell&logoColor=white) ![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 2. Operating System
 ![redhat linux](https://img.shields.io/badge/redhat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 ### 3. Fundamentals
-![dsa](https://img.shields.io/badge/data_structures_and_algorithms-5468FF?style=for-the-badge&logo=algolia&logoColor=white) ![oops](https://img.shields.io/badge/object_oriented_programmming-172B4D?style=for-the-badge&logo=algolia&logoColor=white)
+![dsa](https://img.shields.io/badge/data_structures_and_algorithms-5468FF?style=for-the-badge&logo=algolia&logoColor=white) ![oops](https://img.shields.io/badge/object_oriented_programmming-172B4D?style=for-the-badge&logo=actigraph&logoColor=white)
 
 ### 4. Big Data
-![hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=white) ![spark](https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white) ![spark](https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### 5. Cloud Computing
-![salesforce](https://img.shields.io/badge/salesforce-00A1E0?style=for-the-badge&logo=algolia&logoColor=white) ![aws](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![gcp](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![salesforce](https://img.shields.io/badge/salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![aws](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![gcp](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 6. DevOps
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -40,7 +40,7 @@ This is all about me.  If you have any questions about technology, I'm pleased t
 ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 8. Frameworks
-![aura](https://img.shields.io/badge/aura-00A1E0?style=for-the-badge&logo=algolia&logoColor=white) ![lwc](https://img.shields.io/badge/lwc-00A1E0?style=for-the-badge&logo=algolia&logoColor=white) ![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![aura](https://img.shields.io/badge/aura-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![lwc](https://img.shields.io/badge/lwc-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 9. SCM Tools
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)

@@ -1,6 +1,6 @@
 # Hi, I'm Prabhjeet! 👋
 
-![screen-gif](./Prabhjeet_Singh.gif)
+![screen-gif](./Prabhjeet_Singh_Intro.gif)
 
 ## 🚀 About Me
 

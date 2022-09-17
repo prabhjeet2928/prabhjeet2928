@@ -6,7 +6,7 @@
 
 My name is Prabhjeet Singh, I am from Mohali, Punjab, I was born and brought up in Jaipur, Rajasthan. Coming to my qualification, I recently completed my graduation in the stream of Computer Science and Engineering from Poornima Institute of Engineering and Technology, Jaipur.
 
-Currently I am working as a Associate Engineer Role in Financial Spectra, Mohali, Punjab.
+Currently I am working as a Software Engineer Role in Financial Spectra, Mohali, Punjab.
 
 Aside from that, I also have interesting hobbies for learning the new technological stuff and also it implements integrated technologies to make beautiful and crisp projects, playing outdoor games mostly such as Cricket and Badminton, Mostly Reading Articles etc.
 
